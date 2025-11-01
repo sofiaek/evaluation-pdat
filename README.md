@@ -1,6 +1,8 @@
 # Adherence to the major classes of anthypertensive theraphy
-This repository contains code for a supplementary nonparametric method in this 
-[study](https://catalogues.ema.europa.eu/node/3539/administrative-details).
+This repository contains code for the supplementary nonparametric method in:
+
+Karl Laurell, Stefan Gustafsson, Erik Lampa, Dave Zachariah, Sofia Ek, Karin Rådholm, Mats Martinell, Johan Sundström. 
+"Initial drug choice for hypertension and long-term treatment persistence". 2025.
 
 Data is not included in this repository. Dummy data is used for the examples.
 
